@@ -1,6 +1,9 @@
 # college-email-id-benefits
 This repository contains list of all the places you can use your college email id to get student benifits like free professional software and student discounts
 
+Click on any item to navigate to the relevant page
+
+
 ## find Alphabetically
  |      |    |    |    |
  |  --- |--- | ---|--- |
@@ -18,11 +21,11 @@ This repository contains list of all the places you can use your college email i
 
 ---
 ## A
-    comming soon ...
+    1. Apple products
 ## B
     comming soon ...
 ## C
-    comming soon ...
+    1. Canva
 ## D
     comming soon ...
 ## E
@@ -30,7 +33,7 @@ This repository contains list of all the places you can use your college email i
 ## F
     comming soon ...
 ## G
-    comming soon ...
+    Github education pack
 ## H
     comming soon ...
 ## I
@@ -47,7 +50,7 @@ This repository contains list of all the places you can use your college email i
 ## M
     comming soon ...
 ## N
-    comming soon ...
+    1. Notion
 ## O
     comming soon ...
 ## P
@@ -57,7 +60,7 @@ This repository contains list of all the places you can use your college email i
 ## R
     comming soon ...
 ## S
-    comming soon ...
+   1. Spotify
 ## T
     comming soon ...
 ## U
@@ -69,7 +72,7 @@ This repository contains list of all the places you can use your college email i
 ## X
     comming soon ...
 ## Y
-    comming soon ...
+    1. Youtube music
 ## Z
     comming soon ...
 ---
