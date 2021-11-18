@@ -15,17 +15,22 @@ Click on any item to navigate to the relevant page
  |    [U](#U) |  [V](#V) |  [W](#W) |    |  
  |    [X](#X) |  [Y](#Y) |  [Z](#Z) |    | 
 
-|Total benefits added|
+|Total benefits added so far|
  |:-------------------:|
- |      1            |
+ |      8            |
 
 ---
 ## A
-    1. Apple products
+
+1. [Apple products](https://www.myunidays.com/IN/en-IN/partners/appleeducationstore/spotlight/online)
+2. [Apple Music/ Apple TV+](https://support.apple.com/en-in/HT205928)
+
 ## B
     comming soon ...
 ## C
-    1. Canva
+
+1. [Canva Pro](https://www.canva.com/education/github/)
+
 ## D
     comming soon ...
 ## E
@@ -33,7 +38,9 @@ Click on any item to navigate to the relevant page
 ## F
     comming soon ...
 ## G
-    Github education pack
+    
+1. [Github education pack](https://education.github.com/pack)
+
 ## H
     comming soon ...
 ## I
@@ -50,7 +57,8 @@ Click on any item to navigate to the relevant page
 ## M
     comming soon ...
 ## N
-    1. Notion
+
+1. [Notion Peronal Pro](https://www.notion.so/product/notion-for-education)
 ## O
     comming soon ...
 ## P
@@ -60,7 +68,9 @@ Click on any item to navigate to the relevant page
 ## R
     comming soon ...
 ## S
-   1. Spotify
+
+1. [Spotify Premium](https://www.spotify.com/in-en/student/)
+
 ## T
     comming soon ...
 ## U
@@ -72,7 +82,9 @@ Click on any item to navigate to the relevant page
 ## X
     comming soon ...
 ## Y
-    1. Youtube music
+
+1. [Youtube Premium](https://www.youtube.com/premium/student)
+
 ## Z
     comming soon ...
 ---
