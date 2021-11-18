@@ -17,24 +17,27 @@ Click on any item to navigate to the relevant page
 
 |Total benefits added so far|
  |:-------------------:|
- |      8            |
+ |      20            |
 
 ---
 ## A
 
 1. [Apple products](https://www.myunidays.com/IN/en-IN/partners/appleeducationstore/spotlight/online)
 2. [Apple Music/ Apple TV+](https://support.apple.com/en-in/HT205928)
+3. [Air India](https://www.airindia.in/student-concession.htm)
 
 ## B
-    comming soon ...
+1. [Bootstrap Studio](https://bootstrapstudio.io/student-pack)
 ## C
 
 1. [Canva Pro](https://www.canva.com/education/github/)
 
 ## D
-    comming soon ...
+1. [DigitalOcean](https://www.digitalocean.com/github-students/)
 ## E
-    comming soon ...
+1. [Easemytrip](https://www.easemytrip.com/offers/students.html?CouponCode=EMTSTUDENT)
+2. [educative](https://www.educative.io/github-students?utm_source=github-student-pack)
+    
 ## F
     comming soon ...
 ## G
@@ -44,7 +47,7 @@ Click on any item to navigate to the relevant page
 ## H
     comming soon ...
 ## I
-    comming soon ...
+1. [Indigo](https://www.goindigo.in/add-on-services/student-discount.html)
 
 ## J
 
@@ -55,10 +58,13 @@ Click on any item to navigate to the relevant page
 ## L
     comming soon ...
 ## M
-    comming soon ...
+1. [Microsoft Office 365](https://www.microsoft.com/en-in/education/products/office)
+2. [Microsoft Azure](https://azure.microsoft.com/en-in/free/students/)
 ## N
 
 1. [Notion Peronal Pro](https://www.notion.so/product/notion-for-education)
+2. [Name.com](https://www.name.com/partner/github-students)
+3. [namecheap](https://nc.me/landing/github)
 ## O
     comming soon ...
 ## P
@@ -70,9 +76,10 @@ Click on any item to navigate to the relevant page
 ## S
 
 1. [Spotify Premium](https://www.spotify.com/in-en/student/)
+2. [Streamyard](https://streamyard.com/github-students)
 
 ## T
-    comming soon ...
+1. [twilio](https://www.twilio.com/quest/github-education)
 ## U
     comming soon ...
 ## V
