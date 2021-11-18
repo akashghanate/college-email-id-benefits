@@ -17,7 +17,7 @@ Click on any item to navigate to the relevant page
 
 |Total benefits added so far|
  |:-------------------:|
- |      20            |
+ |      30            |
 
 ---
 ## A
@@ -25,6 +25,9 @@ Click on any item to navigate to the relevant page
 1. [Apple products](https://www.myunidays.com/IN/en-IN/partners/appleeducationstore/spotlight/online)
 2. [Apple Music/ Apple TV+](https://support.apple.com/en-in/HT205928)
 3. [Air India](https://www.airindia.in/student-concession.htm)
+4. [Autodesk](https://www.autodesk.com/education/edu-software/overview?sorting=featured&filters=individual)
+5. [Adobe Creative suit](https://www.adobe.com/in/creativecloud/buy/students.html)
+6. [Ableton](https://www.ableton.com/en/shop/education/#eligibility)
 
 ## B
 1. [Bootstrap Studio](https://bootstrapstudio.io/student-pack)
@@ -37,6 +40,7 @@ Click on any item to navigate to the relevant page
 ## E
 1. [Easemytrip](https://www.easemytrip.com/offers/students.html?CouponCode=EMTSTUDENT)
 2. [educative](https://www.educative.io/github-students?utm_source=github-student-pack)
+3. [Evernote](https://evernote.com/students/)
     
 ## F
     comming soon ...
@@ -45,7 +49,7 @@ Click on any item to navigate to the relevant page
 1. [Github education pack](https://education.github.com/pack)
 
 ## H
-    comming soon ...
+1. [HP](https://www.hp.com/in-en/shop/students/about-the-program)
 ## I
 1. [Indigo](https://www.goindigo.in/add-on-services/student-discount.html)
 
@@ -56,7 +60,8 @@ Click on any item to navigate to the relevant page
 ## K
     comming soon ...
 ## L
-    comming soon ...
+1. [Lucidchart](https://www.lucidchart.com/pages/usecase/education)
+2. [Lenovo](https://lenovo.studentbeans.com/)
 ## M
 1. [Microsoft Office 365](https://www.microsoft.com/en-in/education/products/office)
 2. [Microsoft Azure](https://azure.microsoft.com/en-in/free/students/)
@@ -72,14 +77,16 @@ Click on any item to navigate to the relevant page
 ## Q
     comming soon ...
 ## R
-    comming soon ...
+1. [RoboForm](https://www.roboform.com/promotions/college)
 ## S
 
 1. [Spotify Premium](https://www.spotify.com/in-en/student/)
 2. [Streamyard](https://streamyard.com/github-students)
+3. [Samsung](https://www.samsung.com/in/microsite/student-advantage/)
 
 ## T
 1. [twilio](https://www.twilio.com/quest/github-education)
+2. [Tableau](https://www.tableau.com/academic/students)
 ## U
     comming soon ...
 ## V
